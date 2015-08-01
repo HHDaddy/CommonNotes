@@ -1,3 +1,9 @@
+[Google Java Style(中文版)](https://github.com/HHDaddy/CommonNotes/edit/master/codeStyle/Google%20Java%20Style(%E4%B8%AD%E6%96%87%E7%89%88).md)  
+作者：HHDaddy  
+原文链接：[https://google-styleguide.googlecode.com/svn/trunk/javaguide.html](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html)  
+参考：[Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)  
+说明：本文参考【Google Java编程风格指南】重新翻译了Google Java Style，指在学习标准的Java编码风格及提高英文阅读能力。凡阅者，请多多指教！
+
 # 1 引言
 本文档是Google Java源码标准编程规范的完整定义。当且仅当一个源文件符合本文所述的规范时，我们则认为它符合Google编程风格。  
 类似于其他编码风格指南，我们不仅仅讨论编码风格美观的问题，也讨论其他一些约定及编码标准。然而，这份文档主要侧重于我们所普遍遵循的规则，对于那些不是明确强制要求的（无论是人为定义还是工具要求的），我们尽量避免提供意见或建议。  
