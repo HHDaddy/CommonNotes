@@ -15,16 +15,17 @@ HTML&CSS编码规范
 - 对于属性的定义，确保全部使用双引号，绝不要使用单引号。
 - 不要在自闭合元素的尾部添加斜线（HTML3、HTML5规范可选，XHTML必选）。
 - 不要省略可选的结束标签。
->     <!DOCTYPE html>  
->     <html>  
->        <head>  
->        <title>Page title</title> 
->        </head>  
->      <body>  
->       <img src="images/company-logo.png" alt="Company">  
->       <h1 class="hello-world">Hello, world!</h1>  
->      </body>  
->     </html>  
+
+    `<!DOCTYPE html>`   
+    `<html>`  
+       &nbsp;&nbsp;&nbsp;&nbsp;`<head> `  
+       &nbsp;&nbsp;&nbsp;&nbsp;`<title>Page title</title>`  
+       &nbsp;&nbsp;&nbsp;&nbsp;`</head> `  
+     `<body> `  
+     &nbsp;&nbsp;&nbsp;&nbsp;` <img src="images/company-logo.png" alt="Company"> `  
+     &nbsp;&nbsp;&nbsp;&nbsp; `<h1 class="hello-world">Hello, world!</h1> `  
+     `</body> `  
+    `</html> `  
 
 ###HTML5 doctype
 为每个 HTML 页面的第一行添加标准模式（standard mode）的声明。
